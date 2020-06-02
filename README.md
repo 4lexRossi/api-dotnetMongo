@@ -18,7 +18,7 @@ Uma IDE de sua preferência
 ```
 
 Criar uma conta no [MongoDB](https://www.mongodb.com/)
-Após a criação terá que o campo 
+Após a criação terá que alterar o campo 
 `"ConnectionString": "mongodb+srv://seu_usuario:sua_senha@dotnet-mongo-seu_usuario-v5slk.gcp.mongodb.net/test?retryWrites=true&w=majority"`
 no arquivo `appsettings.json`
 
